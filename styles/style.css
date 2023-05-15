@@ -1,0 +1,135 @@
+body{
+    background-color: black;
+    color: white;
+    background-image: url('/images/Bathome1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.navigation{
+    display: flex;
+    padding-top: 3%;
+    padding-left: 10%;
+    justify-content: space-between;
+    border: 4px solid #fff;
+    border-top: none;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.home ul li{
+    text-decoration: none ;
+    list-style: none;
+}
+.home ul li a{
+    color: white; 
+}
+.introduction{
+    text-align: center;
+    padding-top: 20%;
+}
+button{
+padding-bottom: 2%;
+}
+
+.fleche{
+    text-align: center;
+    padding-top: 10%;
+}
+.soutitre{
+    padding-left: 14%;
+}
+.cart{
+    display: flex;
+    padding-left: 3%;
+    justify-content: space-evenly;
+}
+.bathom13{
+  padding-left: 10%;
+}
+.titr{
+   padding-left: 12%;
+}
+.photo{
+display: flex;
+justify-content: space-evenly;
+text-align: center;
+}
+.bathom12{
+    padding-left: 50%;
+}
+.alli{
+    padding-left: 12%;
+}
+.alfrd{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.sayna{
+padding-left: 18%;
+}
+.defi{
+    text-align: center;
+    width: 100%;
+}
+.multi{
+padding-left: 20%;
+}
+
+.multimedia  {
+text-align: center;
+    display: flex;
+    padding-left: 800px;
+}
+.mercie{
+    background-color: darkgrey;
+}
+.right{
+padding-left: 20%;
+padding-top: 6%;
+}
+.vost{
+    padding-left: 200px;
+    width: 100%;
+    margin: 40px;
+}
+.fleche2{
+    padding-left: 10%;
+    padding-top: 7%;
+}
+.polo{
+    margin: 10%;
+}
+.pn{
+    margin: 10%;
+}
+.discord{
+    margin: 10%;
+}
+.film{
+display: flex;
+justify-content: space-evenly;
+padding-top: 5%;
+}
+.t2{
+    padding-left: 45%;
+    padding-top: 3%;
+}
+.wb{
+    display: flex;
+}
+.trois{
+    display: flex;
+    justify-content: ;
+}
+.space {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    right: 35px;
+    top: 420px;
+}
+.space.social{
+margin-top: 0%
+}
